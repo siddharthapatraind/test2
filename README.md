@@ -71,7 +71,7 @@ Special thanks to:
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img  alt="Siddhartha Patra"/>
+        <img src="https://drive.google.com/file/d/1qLbVZEXaVdiLUfL8VKsar9tMGGTGrR3o/view?usp=drivesdk" width="120px;" alt="Siddhartha Patra"/>
         <br />
         <b></b>
       </td>
